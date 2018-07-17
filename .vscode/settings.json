@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "**/*.venv": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true,
+        "*.egg-info": true,
+        ".pytest_cache": true,
+        "*.coverage*": true,
+        "requirements*.txt": true,
+        "**/node_modules": true,
+        "**/.sass-cache": true,
+        "**/yarn.lock": true,
+        ".gitlab": true,
+        "**/*-error.log": true
+    },
+    "editor.fontFamily": "Consolas",
+    "editor.tabSize": 2,
+    "python.pythonPath": "${VIRTUAL_ENV}/bin/python",
+    "python.linting.pylintPath": "${VIRTUAL_ENV}/bin/pylint",
+    "python.linting.pylintEnabled": true
+}

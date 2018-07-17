@@ -1,0 +1,6 @@
+addict
+click
+Flask
+python-dotenv
+IPython
+honcho

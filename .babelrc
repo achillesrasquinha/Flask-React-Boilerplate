@@ -1,0 +1,12 @@
+{
+	"presets": [
+        "env",
+		"react"
+	],
+	"plugins": [
+		"transform-object-rest-spread",
+		"transform-async-to-generator",
+		"syntax-dynamic-import",
+		"react-hot-loader/babel"
+	]
+}

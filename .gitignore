@@ -1,0 +1,29 @@
+# Virtual Environments
+.venv
+
+# Environment Files
+.env
+
+__pycache__
+*.pyc
+*.egg-info
+.pytest_cache
+.coverage*
+htmlcov
+
+# misc
+.DS_Store
+
+# cc
+app/public/assets/css/*.css*
+app/public/assets/js/*.js*
+
+# dependencies
+node_modules
+
+# cache
+.sass-cache
+
+# error
+npm-debug.log
+yarn-error.log

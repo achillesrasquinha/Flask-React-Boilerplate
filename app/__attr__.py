@@ -1,0 +1,6 @@
+__name__        = "app"
+__version__     = "0.1.0"
+__url__         = "https://gitlab.com/achillesrasquinha/app"
+__author__      = "Achilles Rasquinha"
+__email__       = "achillesrasquinha@gmail.com"
+__description__ = "App"
